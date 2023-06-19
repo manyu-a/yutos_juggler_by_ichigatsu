@@ -1,5 +1,5 @@
-# yutos_juggler_by_ichigatsu
-ゆーとさんのジャグラーのUnity WebGL
+# yutos_slot_by_ichigatsu
+ゆーとさんのスロットのUnity WebGL実装
 
 参考：
 https://qiita.com/flankids/items/08ebc63a2a50507a418a
